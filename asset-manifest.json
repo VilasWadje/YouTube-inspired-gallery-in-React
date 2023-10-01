@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YouTube-inspired-gallery-in-React/static/css/main.8cbc9f84.css",
+    "main.js": "/YouTube-inspired-gallery-in-React/static/js/main.0e991b78.js",
+    "static/js/787.28cb0dcd.chunk.js": "/YouTube-inspired-gallery-in-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/YouTube-inspired-gallery-in-React/index.html",
+    "main.8cbc9f84.css.map": "/YouTube-inspired-gallery-in-React/static/css/main.8cbc9f84.css.map",
+    "main.0e991b78.js.map": "/YouTube-inspired-gallery-in-React/static/js/main.0e991b78.js.map",
+    "787.28cb0dcd.chunk.js.map": "/YouTube-inspired-gallery-in-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cbc9f84.css",
+    "static/js/main.0e991b78.js"
+  ]
+}
